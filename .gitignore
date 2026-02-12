@@ -1,2 +1,5 @@
 *env*
 data/
+echo "output/" >> .gitignore
+echo "*.zip" >> .gitignore
+echo "*.ckpt" >> .gitignore
