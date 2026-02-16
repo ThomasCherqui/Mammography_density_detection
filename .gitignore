@@ -3,3 +3,5 @@ data/
 echo "output/" >> .gitignore
 echo "*.zip" >> .gitignore
 echo "*.ckpt" >> .gitignore
+output/mammo-net/
+.DS_Store
